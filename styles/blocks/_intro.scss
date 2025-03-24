@@ -1,0 +1,41 @@
+.intro {
+    padding: 2em 0;
+    text-align: center;
+  
+    &-content {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+  
+    &-greeting {
+      font-size: 2rem;
+      margin-bottom: 0.5em;
+    }
+  
+    &-name {
+      color: $primary-color;
+    }
+  
+    &-role {
+      font-size: 1.4rem;
+      margin-bottom: 1em;
+    }
+  
+    &-description {
+      margin-bottom: 1em;
+      font-size: 1rem;
+        text-align: center;
+    }
+  
+    &-links {
+      display: flex;
+      justify-content: center;
+      gap: 1em;
+      margin-top: 1em;
+      font-size: 1.7rem;
+    }
+  
+      &-link{
+          color: $text-color;
+      }
+  }

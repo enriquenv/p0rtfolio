@@ -1,0 +1,13 @@
+.nav {
+    &-list {
+      display: flex;
+      gap: 1em;
+    }
+  
+    &-link {
+      color: $text-color;
+      font-weight: 500;
+      padding: 0.5em;
+      display: block;
+    }
+  }
