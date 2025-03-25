@@ -35,7 +35,15 @@
       font-size: 1.7rem;
     }
   
-      &-link{
-          color: $text-color;
-      }
+    &-link{
+        color: $text-color;
+
+        &:hover {
+          transform: scale(1.2);
+        }
+    }
+    
+    .resume-link {
+      margin-top: 1em;
+    }
   }
