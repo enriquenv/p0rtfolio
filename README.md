@@ -1,1 +1,1 @@
-This is simple, mordern and fully responsive web portfolio designed to showcase my projects, knowledge, and professional learnings. Built using clean and semantic HTML as well as modular SCSS with the BEM methodology.
+This is a simple, mordern and fully responsive web portfolio designed to showcase my projects, knowledge, and professional learnings. Built using clean and semantic HTML as well as modular SCSS with the BEM methodology.
